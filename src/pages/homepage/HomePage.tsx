@@ -7,6 +7,7 @@ import blackOwnedImage from '../../assets/black-owned-business.jpeg'
 import showoffImage from '../../assets/show-off-your-case.jpeg'
 import shopLocalImage from '../../assets/shop-local.jpeg'
 import NavBar from "../../components/navbar/NavBar";
+import Footer from "../../components/footer/Footer";
 
 const HomePage = () => {
   // must have on page to use intersection observer
@@ -44,6 +45,7 @@ const HomePage = () => {
         </Link>
         </div>
       </div>
+      <Footer />
     </>
   );
 };
