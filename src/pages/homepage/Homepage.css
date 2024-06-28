@@ -1,0 +1,15 @@
+.homepage-container {
+    background-color: black;
+    color: white;
+}
+
+.hero-image {
+    width: 22rem;
+    height: 20rem;
+}
+
+.black-owned-image {
+    width: 18rem;
+    height: 10rem;
+    justify-content: start;
+}
