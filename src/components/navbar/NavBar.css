@@ -1,0 +1,13 @@
+.navbar-container {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    background-color: black;
+    color: rgb(99, 135, 188);
+    padding: 1rem;
+  }
+  
+  .menu-icon {
+    font-size: 3rem;
+    justify-self: end;
+  }

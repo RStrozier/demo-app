@@ -8,8 +8,14 @@
     height: 20rem;
 }
 
-.black-owned-image {
-    width: 18rem;
-    height: 10rem;
-    justify-content: start;
-}
+
+.homepage-image-container {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+  }
+  
+  .homepage-image {
+    max-width: 45%; 
+    height: auto; /* Maintain the aspect ratio of the images */
+  }
