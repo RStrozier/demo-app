@@ -1,0 +1,11 @@
+.shop-page-container {
+    background-color: black;
+    color: white;
+    height: 60vh;
+}
+
+.shop-text {
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 2rem;
+}

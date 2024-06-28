@@ -5,7 +5,8 @@ const Footer = () => {
     <>
         <div className="footer-container">
         <div className="mini-section">
-            <p>Created and designed by Rashida S</p>
+            <p>Created and designed by Rashida S.</p>
+            <br />
         </div>
     </div>
     </>

@@ -3,11 +3,18 @@
     grid-template-columns: 1fr auto;
     align-items: center;
     background-color: black;
-    color: rgb(99, 135, 188);
+    color: #1e4a7b;
     padding: 1rem;
+    border: 1px inset #1e497ba2;
   }
   
   .menu-icon {
     font-size: 3rem;
     justify-self: end;
+  }
+
+  .icon-navbar {
+    justify-self: start;
+    width: 11rem;
+    height: auto;
   }
