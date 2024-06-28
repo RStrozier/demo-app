@@ -19,3 +19,7 @@
     max-width: 45%; 
     height: auto; /* Maintain the aspect ratio of the images */
   }
+
+  .shop-homepage-image {
+   width: 18rem;
+  }
