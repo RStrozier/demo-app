@@ -39,7 +39,9 @@ const HomePage = () => {
         <img 
           className="shop-homepage-image"
           src={shopLocalImage}></img>
+          </div>
           <br />
+          <div className="mini-section">
         <Link to="/shop">
           <p>Click Here To Shop</p>
         </Link>
