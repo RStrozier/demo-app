@@ -43,7 +43,7 @@ const HomePage = () => {
           <br />
           <div className="mini-section">
         <Link to="/shop">
-          <p>Click Here To Shop</p>
+          <p className="shop-text">Click Here To Shop</p>
         </Link>
         </div>
       </div>
